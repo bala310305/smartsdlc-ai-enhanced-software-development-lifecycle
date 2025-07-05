@@ -1,1 +1,1 @@
-video demonstration of project
+Check out this short demo showcasing the working prototype in action. The video highlights the core functionality and real-time performance of the application. It provides a quick visual overview of the project's features, usability, and output. Watch the full clip here to get a better understanding of how the system works.
